@@ -206,6 +206,7 @@ color: slategray;
 @media (max-width:720px) {
     .main1-formsec{
         display:block;
+        margin-top: -10rem;
     }
        .main2-formsec{
         display:block;
@@ -232,9 +233,9 @@ color: slategray;
         height:75%
     }
     
-
-
-
+    .sec-formm {
+        padding:1rem;
+    }
 }
 
 
